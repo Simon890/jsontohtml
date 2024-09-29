@@ -1,0 +1,32 @@
+{
+  "name": "jsontohtml",
+  "version": "1.0.0",
+  "description": "JSON to HTML",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack serve",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simon890/jsontohtml.git"
+  },
+  "keywords": [
+    "json",
+    "html",
+    "js",
+    "javascript"
+  ],
+  "author": "Simon890",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Simon890/jsontohtml/issues"
+  },
+  "homepage": "https://github.com/Simon890/jsontohtml#readme",
+  "devDependencies": {
+    "ts-loader": "^9.5.1",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0"
+  }
+}
